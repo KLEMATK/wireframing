@@ -45,8 +45,33 @@ To present information in a way that matches user expectations and reading behav
 Example:
 Booking summary shown on the right-hand side during checkout.
 Search bar placed prominently at the top center of the homepage.
-
 Contribution to Design:
 Effective content placement supports clarity, scanning, and accessibility.
+
+“Types of Wireframes.”
+The difference between Low-fidelity and High-fidelity is that Low-fidelity wireframes are basic, sketch-like layouts that use simple shapes and placeholders to represent UI elements
+while High-fidelity wireframes are detailed and polished mockups that represent the final UI in terms of layout, content, and style in the project.
+
+Usage of Low-fidelity (When Use)
+Early in the design process
+During brainstorming or planning
+For team discussions or quick feedback
+Example Use:
+Outlining the structure of a booking form, placing headers, buttons, and input fields with labeled boxes.
+
+Usage of High-fidelity (When Use)
+Later in the design process
+Before development begins
+For usability testing and stakeholder approval
+Example Use:
+Presenting a fully designed checkout page, complete with branding, icons, and form validation examples.
+
+Type of Wireframe Here is Low-fidelity wireframe
+As it focuses on basic layout structure and user flow rather than visual design elements or interactivity.
+
+
+
+
+
 
 

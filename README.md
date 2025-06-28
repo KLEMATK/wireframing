@@ -67,7 +67,23 @@ Example Use:
 Presenting a fully designed checkout page, complete with branding, icons, and form validation examples.
 
 Type of Wireframe Here is Low-fidelity wireframe
-As it focuses on basic layout structure and user flow rather than visual design elements or interactivity.
+As it focuses on basic layout structure and user flow rather than visual design elements or interactivity. It serves as a blueprint for initial planning, helping stakeholders and developers align on the core structure before visual or functional details are added
+
+"Discussion on popular wireframing tools."
+Figma is a powerful, cloud-based design and prototyping tool used by designers, developers, and product teams to create wireframes, user interfaces, and interactive prototypes all from within a web browser.
+
+Key Features
+•	Collaborative Design: Multiple users can work on the same design in real-time, making Figma ideal for teams.
+•	Browser-Based Access: No downloads required Figma runs entirely online and works across platforms (Windows, macOS, Linux).
+Wireframing Tools:.
+•	Prototyping and Interactions:
+•	Version Control and Comments:
+•	Integration with Code:
+
+Why Figma is Useful for Wireframing
+It is because it allows designers to start with low-fidelity wireframes and gradually build up to high-fidelity prototypes all in a single platform. Its ease of use, drag-and-drop interface, and live collaboration features make it ideal for both early-stage planning and final UI design.
+Whether you’re sketching a basic layout or refining a booking system interface, Figma helps bring your ideas to life quickly and collaboratively.
+
 
 
 

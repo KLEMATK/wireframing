@@ -84,6 +84,27 @@ Why Figma is Useful for Wireframing
 It is because it allows designers to start with low-fidelity wireframes and gradually build up to high-fidelity prototypes all in a single platform. Its ease of use, drag-and-drop interface, and live collaboration features make it ideal for both early-stage planning and final UI design.
 Whether you’re sketching a basic layout or refining a booking system interface, Figma helps bring your ideas to life quickly and collaboratively.
 
+"Discussion of the benefits of wireframing from a software development perspective".
+
+How Wireframes Guide Design and Team Communication
+Wireframes play a critical role in the early stages of software design which can from a visuallization mapping out how a system will work before any code is written or graphic design begins. They act as a shared blueprint that keeps everyone aligned well with the designers and developers to stakeholders and testers.
+
+Guiding the Design Process
+Wireframes help define: The structure of each page (e.g., homepage, booking form, checkout), The placement of elements like buttons, forms, menus, and content Navigation flow, helping users move from one action to the next
+
+Example:
+In the booking management system, a wireframe showing the "Checkout" page would define: Where the booking summary appears, Where users enter payment details, The location of the "Confirm Booking" button, This allows UI/UX designers to focus on usability and flow, while developers can better plan the components they’ll build.
+
+Facilitating Team Communication
+Wireframes serve as a common visual reference that: Clarifies what needs to be built, Reduces misunderstandings about feature scope or behavior, Enables early feedback from stakeholders before development begins
+
+Example:
+When a product manager, developer, and designer all look at the wireframe for the "Booking History" screen, they can quickly discuss: What filters or sorting options to include, How booking details should be displayed, Which actions (e.g., "Cancel", "Rebook") should be available. This shared understanding helps teams work faster, reduce rework, and stay aligned with project goals.
+
+
+
+
+
 
 
 

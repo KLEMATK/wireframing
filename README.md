@@ -101,9 +101,26 @@ Wireframes serve as a common visual reference that: Clarifies what needs to be b
 Example:
 When a product manager, developer, and designer all look at the wireframe for the "Booking History" screen, they can quickly discuss: What filters or sorting options to include, How booking details should be displayed, Which actions (e.g., "Cancel", "Rebook") should be available. This shared understanding helps teams work faster, reduce rework, and stay aligned with project goals.
 
+"Real-World Scenario Wireframing Uncovers Usability Issues"
+ Scenario:
+During the phase of the design of a Booking Management System for a King’s Line Empire Hospital, a wireframe was created to visualize the "Checkout Page". The low-fidelity wireframe included sections for booking summary, contact details, payment information, and a confirm button.
 
+Usability Issue Identified:
+We share the wireframe with users and stakeholders for review, user realized the mistakes:
+•	Users found the "Confirm Booking" button was placed too far down the page, requiring unnecessary scrolling on mobile devices.
+•	There was no clear indicator of total cost before confirmation, leading to confusion.
+•	Test viewers suggested that the lack of progress indicators (like “Step 3 of 3”) made the process feel uncertain.
 
+Resolution:
+•	The team rearranged the layout, which moving the summary and price closer to the confirm button and added a sticky footer with the total cost and confirmation action.
+•	Introduced a progress bar to show users their position in the booking flow.
+These changes were made quickly and inexpensively at the wireframe stage which made the team to avoided costly code revisions later.
 
+ Impact on Final Product:
+The impact of the final interface was cleaner, faster to navigate, and better suited for mobile users. This customer support tickets related to “booking confusion” dropped significantly post-launch that give positive user feedback highlighted the ease and clarity of the checkout process.
+
+Conclusion:
+to conclude, the Role of Wireframing in User-Friendly Design was more than a visual exercise. Tt was the strategic step that allows teams to spot design flaws, validate assumptions, and improve user experience before a single line of code was written. By mapping out user journeys and interface structure early, the team ensure that the final product is not only functional but also intuitive, efficient, and aligned with real-world needs.
 
 
 
